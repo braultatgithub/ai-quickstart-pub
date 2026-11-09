@@ -85,9 +85,37 @@
 [submodule "quickstart/agentic-software-factory"]
 	path = quickstart/agentic-software-factory
 	url = https://github.com/rh-ai-quickstart/agentic-software-factory.git
+[submodule "quickstart/Billing-extraction-with-GroundX"]
+	path = quickstart/Billing-extraction-with-GroundX
+	url = https://github.com/rh-ai-quickstart/Billing-extraction-with-GroundX.git
 [submodule "quickstart/Fraud-Detection-data-versioning-with-lakeFS"]
 	path = quickstart/Fraud-Detection-data-versioning-with-lakeFS
 	url = https://github.com/rh-ai-quickstart/Fraud-Detection-data-versioning-with-lakeFS.git
+[submodule "quickstart/Evaluate-agents-with-gaussia-evalhub"]
+	path = quickstart/Evaluate-agents-with-gaussia-evalhub
+	url = https://github.com/rh-ai-quickstart/Evaluate-agents-with-gaussia-evalhub.git
+[submodule "quickstart/private-coding-assistant"]
+	path = quickstart/private-coding-assistant
+	url = https://github.com/rh-ai-quickstart/private-coding-assistant.git
 [submodule "quickstart/Agentic-Lease-Management-and-Reconciliation-with-Codvo"]
 	path = quickstart/Agentic-Lease-Management-and-Reconciliation-with-Codvo
 	url = https://github.com/rh-ai-quickstart/Agentic-Lease-Management-and-Reconciliation-with-Codvo.git
+[submodule "quickstart/elastic-3am-alert-killer"]
+	path = quickstart/elastic-3am-alert-killer
+	url = https://github.com/rh-ai-quickstart/elastic-3am-alert-killer.git
+[submodule "quickstart/Resilient-RAG-with-Veeam-Kasten"]
+	path = quickstart/Resilient-RAG-with-Veeam-Kasten
+	url = https://github.com/rh-ai-quickstart/Resilient-RAG-with-Veeam-Kasten.git
+[submodule "quickstart/agentic-partners-integration"]
+	path = quickstart/agentic-partners-integration
+	url = https://github.com/rh-ai-quickstart/agentic-partners-integration.git
+	branch = aro
+[submodule "quickstart/helpdesk-email-triage"]
+	path = quickstart/helpdesk-email-triage
+	url = https://github.com/rh-ai-quickstart/helpdesk-email-triage.git
+[submodule "quickstart/self-improving-retrieval-for-rag-and-ai-agents"]
+	path = quickstart/self-improving-retrieval-for-rag-and-ai-agents
+	url = https://github.com/rh-ai-quickstart/self-improving-retrieval-for-rag-and-ai-agents.git
+[submodule "quickstart/confidential-gpu-accelerated-seismic-interpretation"]
+	path = quickstart/confidential-gpu-accelerated-seismic-interpretation
+	url = https://github.com/rh-ai-quickstart/confidential-gpu-accelerated-seismic-interpretation
